@@ -1,6 +1,6 @@
 # GDL - Geometric Deep Learning(2022)
 
-Summary notes links:
+Notes links:
 
 https://www.dropbox.com/sh/ehf7wc94lylpnv2/AAANt4DiPZEAPcJhp_obue23a?dl=0
 
